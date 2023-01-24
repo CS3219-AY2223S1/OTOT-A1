@@ -10,7 +10,7 @@ cd cs3219_otot_taska1
 
 ## A1.1 - Dockerize node app in `app` folder
 
-In the `app/index.html` file, search for "TODO" and fill in the blanks.
+In the `app/public/index.html` file, search for "TODO" and fill in the blanks.
 
 Follow these guide to Dockerize the sample node app.
 - [https://nodejs.org/en/docs/guides/nodejs-docker-webapp/](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
